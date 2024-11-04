@@ -38,6 +38,8 @@ Installation & Setup
 Clone the repository to your local machine.
 
 Copy code
+
+
 git clone https://github.com/yourusername/airway-system-plus-plus.git
 
 Set up MySQL and create the necessary database and tables. You can find the SQL script to set up the tables in the /sql folder.
